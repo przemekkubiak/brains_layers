@@ -11,7 +11,7 @@ This project provides tools and scripts for analyzing the performance of BERT on
 
 ## Data
 
-Only synthetic data is shared in this repository. For access to other datasets, please refer to the respective publications.
+Only synthetic data is shared in this repository. For access to other datasets, please refer to the respective publications: Bowman et al. (2015) for the SNLI dataset used for the semantic task, Tjong Kim Sang adn De Meulder (2003) for the conll2003 dataset used for the syntactic task, and Regev et al. (2024) for the stimuli data from their neurological study.
 
 ## References
 
